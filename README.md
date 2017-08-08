@@ -1,6 +1,6 @@
 # awesome-coder
 
-专注于产品设计，微信小程序开发资源汇总,Android,Python学习,Growth Hacking实践等。To Be Excellent!
+专注于产品设计，微信小程序开发资源汇总，Android ，Python 学习，Growth Hacking 实践等。To Be Excellent !
 
 
 ## 产品与设计
