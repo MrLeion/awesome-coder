@@ -11,6 +11,16 @@ To Be Excellent ! ！！
 - [创造师导航](http://chuangzaoshi.com/)
 - [Material Design中文版](https://www.mdui.org/design/)
 
+## 学习笔记
+
+- [做自己的产品经理](http://www.jianshu.com/p/26228262e1ae)
+- [市场分析](http://www.jianshu.com/p/7f95f6c68533)
+- [竞品分析](http://www.jianshu.com/p/187f5e361f07)
+- [需求那些事儿](http://www.jianshu.com/p/05d9018f2d27)
+- [产品运营](http://www.jianshu.com/p/351d5999fcce)
+
+
+
 ## 小程序开发
 
 ### 官方教程
@@ -74,6 +84,17 @@ To Be Excellent ! ！！
 
 
 
+## 学习笔记
+
+- [动画(一)：坐标系](http://www.jianshu.com/p/5ccbc2528f53)
+- [Android studio使用入门](http://www.jianshu.com/p/4e5cfc1a1cfc)
+- [快速开发（一）](http://www.jianshu.com/p/716b54c4a9c3)
+- [Andorid 安全攻防战-反编译及加固[Mac版]](http://www.jianshu.com/p/a26fa25a93ea)
+- [Markdown 使用指南](http://www.jianshu.com/p/a4934a23111b)
+- [Github 使用指南](http://www.jianshu.com/p/0ccfce10cdf9)
+- [音视频会员实现](http://www.jianshu.com/p/557f61fdb8db)
+
+
 ## JavaScript
 
 [高仿项目-饿了么Vue.js版](https://github.com/bailicangdu/vue2-elm)
@@ -93,6 +114,9 @@ To Be Excellent ! ！！
 ## AR
 - [ARkit](https://developer.apple.com/arkit/)
 - [ARCore](https://github.com/google-ar/arcore-android-sdk)
+
+
+
 
 
 
