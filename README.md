@@ -12,6 +12,8 @@ To Be Excellent ! ！！
 - [创造师导航](http://chuangzaoshi.com/)
 - [Material Design中文版](https://www.mdui.org/design/)
 
+
+
 ## 学习笔记
 
 - [做自己的产品经理](http://www.jianshu.com/p/26228262e1ae)
@@ -20,6 +22,9 @@ To Be Excellent ! ！！
 - [需求那些事儿](http://www.jianshu.com/p/05d9018f2d27)
 - [产品运营](http://www.jianshu.com/p/351d5999fcce)
 
+
+
+-------------------
 
 
 ## 小程序开发
@@ -33,11 +38,12 @@ To Be Excellent ! ！！
 ### 社区
 
 - [微信小程序联盟](http://www.wxapp-union.com/)
+- [](http://wxopen.club/)
 
 ### 轮子
 
 - [wepy](https://github.com/wepyjs/wepy)
-
+- [wxopen](http://wxopen.club/)
 
 ### Github 上的一些项目
 
@@ -74,7 +80,7 @@ To Be Excellent ! ！！
 #### 商城
 
 - [巴爷商城](https://github.com/bayetech/wechat_mall_applet)
-
+-------------------
 
 ## Android
 
@@ -95,27 +101,27 @@ To Be Excellent ! ！！
 - [Github 使用指南](http://www.jianshu.com/p/0ccfce10cdf9)
 - [音视频会员实现](http://www.jianshu.com/p/557f61fdb8db)
 
-
+-------------------
 ## JavaScript
 
 [高仿项目-饿了么Vue.js版](https://github.com/bailicangdu/vue2-elm)
 
 
-
+-------------------
 ## Python
 
 - [python 爬虫学习](https://github.com/lining0806/PythonSpiderNotes)
 
-
+-------------------
 
 ## 增长工程师实践
 
 - [Hello-Github](https://github.com/521xueweihan/HelloGitHub)
-
+-------------------
 ## AR
 - [ARkit](https://developer.apple.com/arkit/)
 - [ARCore](https://github.com/google-ar/arcore-android-sdk)
-
+-------------------
 
 
 
