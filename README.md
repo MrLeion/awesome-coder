@@ -3,7 +3,7 @@
 - 专注于产品设计与研发
 - 微信小程序开发资源汇总
 - Android ，JavaScript ，Python ，Growth Hacking 实践等。
-To Be Excellent ! ！！
+To Be Excellent ！！！
 
 -------------------
 
