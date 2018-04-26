@@ -122,8 +122,11 @@ To Be Excellent ！！！
 - [ARkit](https://developer.apple.com/arkit/)
 - [ARCore](https://github.com/google-ar/arcore-android-sdk)
 -------------------
-
-
+## 开发者常用社区
+- [V2EX](https://www.v2ex.com)
+- [TesterHome](https://testerhome.com/)
+- [pmcaff](https://www.pmcaff.com/)
+- [segmentfault](https://segmentfault.com/)
 
 
 
