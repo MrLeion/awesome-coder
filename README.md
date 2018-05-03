@@ -80,6 +80,10 @@ To Be Excellent ！！！
 #### 商城
 
 - [巴爷商城](https://github.com/bayetech/wechat_mall_applet)
+
+#### 学习笔记
+- [我从小程序学到了什么（一）](https://mp.weixin.qq.com/s?__biz=MzAwODcwODYwMw==&mid=2247484292&idx=1&sn=437ef07bfc4fdedaeefe90a5bf3b644a&chksm=9b6b8b10ac1c020665d95893a1294f98c19a7ced18a44b8001044205e6693f8cf25d65923961&scene=21#wechat_redirect)
+
 -------------------
 
 ## Android
