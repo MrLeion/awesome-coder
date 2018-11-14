@@ -12,22 +12,35 @@ To Be Excellent ！！！
 
 ### 项目实践
 
-
-### 源码解析
-
+- [快速开发（一）](https://github.com/MrLeion/awesome-coder/blob/master/journey/android/%5BAndroidDev-%E7%B3%BB%E5%88%97%5D-%E5%BF%AB%E9%80%9F%E5%BC%80%E5%8F%91%EF%BC%88%E4%B8%80%EF%BC%89.md)
 
 
+- [音视频会员实现](https://github.com/MrLeion/awesome-coder/blob/master/journey/android/%E9%9F%B3%E8%A7%86%E9%A2%91%E4%BC%9A%E5%91%98%E5%AE%9E%E7%8E%B0.md)
 
-### 知识点
+
+- [开源协议](https://github.com/MrLeion/awesome-coder/blob/master/journey/android/%E5%BC%80%E6%BA%90%E5%8D%8F%E8%AE%AE.md)
+
+### Android 进阶
 
 - [动画(一)：坐标系](https://github.com/MrLeion/awesome-coder/blob/master/journey/android/%5BAndroid%5D%E8%87%AA%E5%AE%9A%E4%B9%89View(%E4%B8%80)%EF%BC%9A%E5%9D%90%E6%A0%87%E7%B3%BB.md)
 
 - [Andorid 安全攻防战-反编译及加固[Mac版]](https://github.com/MrLeion/awesome-coder/blob/master/journey/android/-Andorid-%E5%AE%89%E5%85%A8%E6%94%BB%E9%98%B2%E6%88%98-%E5%8F%8D%E7%BC%96%E8%AF%91%E5%8F%8A%E5%8A%A0%E5%9B%BA%5BMac%E7%89%88%5D.md)
 
-- [音视频会员实现](http://www.jianshu.com/p/557f61fdb8db)
 
 
-- [快速开发（一）](http://www.jianshu.com/p/716b54c4a9c3)
+### 源码解析
+
+
+### Java 
+
+
+
+
+
+
+
+
+
 
 
 
