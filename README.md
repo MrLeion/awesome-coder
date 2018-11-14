@@ -1,8 +1,12 @@
 # awesome-coder
 
+
+![失意不灰心，得意莫忘形](http://upload-images.jianshu.io/upload_images/2539684-1a53495ad76841c8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+- 专注于 Android，Python 开发实践。
 - 产品设计与研发
 - 微信小程序开发资源汇总
-- 专注于 Android，Python 开发实践等。
+
 To Be Excellent ！！！
 
 -------------------
@@ -85,11 +89,11 @@ To Be Excellent ！！！
 
 ### 产品学习笔记
 
-- [做自己的产品经理](http://www.jianshu.com/p/26228262e1ae)
-- [市场分析](http://www.jianshu.com/p/7f95f6c68533)
-- [竞品分析](http://www.jianshu.com/p/187f5e361f07)
-- [需求那些事儿](http://www.jianshu.com/p/05d9018f2d27)
-- [产品运营](http://www.jianshu.com/p/351d5999fcce)
+- [做自己的产品经理](https://github.com/MrLeion/awesome-coder/blob/master/%E7%94%9F%E6%B4%BB%E5%90%AF%E7%A4%BA%E5%BD%95/%E4%BA%A7%E5%93%81/%5B%E4%BA%A7%E5%93%81%E5%AD%A6%E4%B9%A0%5D%E5%81%9A%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86.md)
+- [市场分析](https://github.com/MrLeion/awesome-coder/blob/master/%E7%94%9F%E6%B4%BB%E5%90%AF%E7%A4%BA%E5%BD%95/%E4%BA%A7%E5%93%81/%5B%E4%BA%A7%E5%93%81%E5%AD%A6%E4%B9%A0%5D%E5%B8%82%E5%9C%BA%E5%88%86%E6%9E%90.md)
+- [竞品分析](https://github.com/MrLeion/awesome-coder/blob/master/%E7%94%9F%E6%B4%BB%E5%90%AF%E7%A4%BA%E5%BD%95/%E4%BA%A7%E5%93%81/%5B%E4%BA%A7%E5%93%81%E5%AD%A6%E4%B9%A0%5D%E7%AB%9E%E5%93%81%E5%88%86%E6%9E%90.md)
+- [需求那些事儿](https://github.com/MrLeion/awesome-coder/blob/master/%E7%94%9F%E6%B4%BB%E5%90%AF%E7%A4%BA%E5%BD%95/%E4%BA%A7%E5%93%81/%5B%E4%BA%A7%E5%93%81%E5%AD%A6%E4%B9%A0%5D%E9%9C%80%E6%B1%82%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF.md)
+- [产品运营](https://github.com/MrLeion/awesome-coder/blob/master/%E7%94%9F%E6%B4%BB%E5%90%AF%E7%A4%BA%E5%BD%95/%E4%BA%A7%E5%93%81/%E4%BA%A7%E5%93%81%E8%BF%90%E8%90%A5.md)
 
 
 ## 联系我
