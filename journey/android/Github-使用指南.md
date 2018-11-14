@@ -1,6 +1,6 @@
 ![](http://upload-images.jianshu.io/upload_images/2539684-1a53495ad76841c8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-###Github和Git的区别
+### Github和Git的区别
 
 写这篇文章的目的一来是总结下自己对于 Github 这个社区的使用经验总结；另一方面希望可以帮助到那些刚刚接触到编程的筒子们，希望你们能够在编程的道路上找到属于自己的乐趣！
 首先需要更正的一个常识：Github 和 Git 不是一个玩意儿；在实际工作中，我们的代码可能会被存储在当前的项目工程目录下、本地仓库(电脑某个固定的文件下)、远程服务器上。Github 可以理解为我们储存代码的服务器，当然它远非服务器这么简单啦，Git 就是协助我们在上个目录下提交代码的一款工具，就和 SVN 是一个道理；
@@ -23,7 +23,7 @@ Github 作为全球最大的基友交流群，有着很多的公司驻扎在其�
 
 另外，宣传下[我个人的账号](https://github.com/MrLeion)欢迎大家一起来交流技术～～
 
-###基本概念
+### 基本概念
 
 ![](http://upload-images.jianshu.io/upload_images/2539684-fe196467bcf62c75.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -64,7 +64,7 @@ Github 作为全球最大的基友交流群，有着很多的公司驻扎在其�
 
 
 
-###第一次使用需要的配置
+### 第一次使用需要的配置
 
 工具安装：[Git 传送门](https://sourceforge.net/projects/git-osx-installer/)
 
@@ -79,7 +79,7 @@ $ git config --global user.email "电子邮箱"
 
 在使用 Github 的过程中，我讲大部分操作归结为两大类，即从 Github 上 clone 项目；或者将我们自己的项目分享到 Github 上和志同道合的人士进行交流，下面来看看具体是如何操作的吧～～
 
-###Project To GitHub
+### Project To GitHub
 
 
 - case 1：空的代码库
@@ -115,7 +115,7 @@ $ git push origin master
 
 
 
-###Project From Github
+### Project From Github
 
 ```
 下载一个项目和它的整个代码历史
@@ -211,7 +211,7 @@ $ git checkout -b [branch] [tag]
 
 
 
-###分支管理
+### 分支管理
 
 ```
 # 提交暂存区到仓库区
@@ -279,7 +279,7 @@ $ git branch -dr [remote/branch]
 ```
 
 
-###通过 Github 提升自己
+### 通过 Github 提升自己
 
 上面的操作让我们将github这个「网盘」的功能发挥到了淋漓尽致；但是如果需要真正通过Github提升自己的能力，就要回归到根本。作为有名的「基友交友社区」，我们可以看到通过别人的代码拓广自己解决问题的思路，而且可以通过自己的积累发现问题并完善别人的代码！
 这里我们就经常要 Fork 下别人的代码，然后给别人(项目主程开发)提交 PR (Pull Request)。给大家推荐一份电子书，作者 Phodal 可以说是 TDD 的死忠，大家有兴趣可以去看看他的文章也算体验下大神的日常生活吧： [GitHub 漫游指南](http://github.phodal.com)
