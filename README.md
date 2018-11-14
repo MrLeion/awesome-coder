@@ -65,6 +65,7 @@ To Be Excellent ！！！
 ## 好玩儿
 
 ### AR
+
 - [ARkit](https://developer.apple.com/arkit/)
 - [ARCore](https://github.com/google-ar/arcore-android-sdk)
 - [Hello-Github](https://github.com/521xueweihan/HelloGitHub)
@@ -78,6 +79,7 @@ To Be Excellent ！！！
 - [Gank](http://gank.io/)
 - [Android Arsenal](https://android-arsenal.com/)
 - [CodeKK](http://p.codekk.com/)
+- [wanAndroid](http://wanandroid.com/index/)
 
 
 ### 产品与设计
@@ -98,8 +100,8 @@ To Be Excellent ！！！
 
 ## 联系我
 
-个人精力有限，如果对记录中有任何疑问或者觉得不足之处欢迎微信私信我，或者给我发 email：
+个人精力有限，如果对记录中有任何疑问或者觉得不足之处欢迎微博私信我，或者给我发 email：
 
 -  [微博](http://weibo.com/john1211)
--  [shtangzenglei@163.com]()
--  [shtangzenglei@gmail.com]()
+-  shtangzenglei@163.com
+-  shtangzenglei@gmail.com
