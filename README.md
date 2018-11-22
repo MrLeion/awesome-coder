@@ -1,7 +1,11 @@
 # awesome-coder
 
 
-![失意不灰心，得意莫忘形](http://upload-images.jianshu.io/upload_images/2539684-1a53495ad76841c8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
+![失意不灰心，得意莫忘形](https://github.com/MrLeion/awesome-coder/blob/master/fallinLover.png)
+
 
 - 专注于 Android，Python 开发实践。
 - 产品设计与研发
