@@ -4,8 +4,8 @@ Gradle Plugin 开发
 
 ================================
 
-
-
+注：
+本文转自：[Embrace Android Studio](http://kvh.io/cn/embrace-android-studio-gradle-plugin.html)
 
 
 目录
