@@ -52,12 +52,6 @@ To Be Excellent ！！！
 
 
 
-
-### 工具使用
-- [Markdown 使用指南](https://github.com/MrLeion/awesome-coder/blob/master/journey/android/Markdown-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md)
-- [Github 使用指南](https://github.com/MrLeion/awesome-coder/blob/master/journey/android/Github-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md)
-- [Android studio使用入门](https://github.com/MrLeion/awesome-coder/blob/master/journey/android/Android-studio%E4%BD%BF%E7%94%A8%E5%85%A5%E9%97%A8.md)
-
 ## Python
 
 - [python 爬虫学习](https://github.com/lining0806/PythonSpiderNotes)
@@ -100,6 +94,20 @@ To Be Excellent ！！！
 - [竞品分析](https://github.com/MrLeion/awesome-coder/blob/master/%E7%94%9F%E6%B4%BB%E5%90%AF%E7%A4%BA%E5%BD%95/%E4%BA%A7%E5%93%81/%5B%E4%BA%A7%E5%93%81%E5%AD%A6%E4%B9%A0%5D%E7%AB%9E%E5%93%81%E5%88%86%E6%9E%90.md)
 - [需求那些事儿](https://github.com/MrLeion/awesome-coder/blob/master/%E7%94%9F%E6%B4%BB%E5%90%AF%E7%A4%BA%E5%BD%95/%E4%BA%A7%E5%93%81/%5B%E4%BA%A7%E5%93%81%E5%AD%A6%E4%B9%A0%5D%E9%9C%80%E6%B1%82%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF.md)
 - [产品运营](https://github.com/MrLeion/awesome-coder/blob/master/%E7%94%9F%E6%B4%BB%E5%90%AF%E7%A4%BA%E5%BD%95/%E4%BA%A7%E5%93%81/%E4%BA%A7%E5%93%81%E8%BF%90%E8%90%A5.md)
+
+## 你可能需要的 Tools
+
+
+- [Git 简易教程](http://www.bootcss.com/p/git-guide/)
+- [Github 使用指南](https://github.com/MrLeion/awesome-coder/blob/master/journey/android/Github-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md)
+- [Markdown 使用指南](https://github.com/MrLeion/awesome-coder/blob/master/journey/android/Markdown-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md)
+- [Android studio使用入门](https://github.com/MrLeion/awesome-coder/blob/master/journey/android/Android-studio%E4%BD%BF%E7%94%A8%E5%85%A5%E9%97%A8.md)
+
+
+
+
+
+
 
 
 ## 联系我
