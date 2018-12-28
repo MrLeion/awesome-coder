@@ -28,6 +28,10 @@ To Be Excellent ！！！
 
 - [开源协议](https://github.com/MrLeion/awesome-coder/blob/master/journey/android/%E5%BC%80%E6%BA%90%E5%8D%8F%E8%AE%AE.md)
 
+
+- [Android屏幕适配](/journey/android/Android屏幕适配.md)
+
+
 ### Android 进阶
 
 - [动画(一)：坐标系](https://github.com/MrLeion/awesome-coder/blob/master/journey/android/%5BAndroid%5D%E8%87%AA%E5%AE%9A%E4%B9%89View(%E4%B8%80)%EF%BC%9A%E5%9D%90%E6%A0%87%E7%B3%BB.md)
