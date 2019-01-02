@@ -38,7 +38,7 @@ To Be Excellent ！！！
 
 - [Andorid 安全攻防战-反编译及加固[Mac版]](https://github.com/MrLeion/awesome-coder/blob/master/journey/android/-Andorid-%E5%AE%89%E5%85%A8%E6%94%BB%E9%98%B2%E6%88%98-%E5%8F%8D%E7%BC%96%E8%AF%91%E5%8F%8A%E5%8A%A0%E5%9B%BA%5BMac%E7%89%88%5D.md)
 
-- [Android 开发问题记录](/journey/android/AndroidMemo.md)
+- [Android 开发问题记录](/journey/android/Android Memo.md)
 
 
 ### 源码解析
