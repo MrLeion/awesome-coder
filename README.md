@@ -119,6 +119,8 @@ To Be Excellent ！！！
 
 个人精力有限，如果对记录中有任何疑问或者觉得不足之处欢迎微博私信我，或者给我发 email：
 
+-  [Twitter](https://twitter.com/MrLeion)
 -  [微博](http://weibo.com/john1211)
 -  shtangzenglei@163.com
 -  shtangzenglei@gmail.com
+
