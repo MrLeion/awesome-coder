@@ -31,6 +31,8 @@ To Be Excellent ！！！
 
 - [Android屏幕适配](/journey/android/Android屏幕适配.md)
 
+- [5.x CoordinarLayout](https://blog.csdn.net/gdutxiaoxu/article/details/52858598) 
+
 
 ### Android 进阶
 

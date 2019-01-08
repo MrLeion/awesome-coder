@@ -13,7 +13,6 @@
 
 ## 什么是 Gradle
 
-
 Gradle 是一个强大的构建工具，它集成了 Ant 基于任务和构建的特性，和 ApacheIvy 强大的依赖管理功能。最重要的是开发者可以通过 Gradle 标准自定义构建插件，这一点远远优于 maven.
 
 ### 执行时序
@@ -87,11 +86,14 @@ R2
 
 ### Gradle 
 
+
+
+
 [Project](https://docs.gradle.org/current/javadoc/org/gradle/api/Project.html)
 
 [Task](https://docs.gradle.org/current/javadoc/org/gradle/api/Task.html)
 
-
+transfromApi
 
 
 ### Groovy
@@ -164,8 +166,6 @@ groovy -e "println 'Hello World!'"
 
 ### ASM/Javassist/ReDex 代码插桩
 
-
-
 ![Android 打包流程](imgs/Android transform 参与流程.png)
  
  
@@ -178,16 +178,22 @@ groovy -e "println 'Hello World!'"
  
  - [Gradle 学习概览](https://blog.csdn.net/singwhatiwanna/article/details/78797506)
  
--  [饿了么巴掌](http://www.wangyuwei.me/archives/)
- 
+-  [ASM 实战--饿了么巴掌](http://www.wangyuwei.me/archives/)
  
 - [Gradle 自定义插件](https://blog.csdn.net/eclipsexys/article/details/50973205)
 
 - [Gradle Plugin 练手项目](https://github.com/JeasonWong/R2Assistant)
+
+- [Gradle Plugin 练手项目二](https://github.com/android-notes/TinyPngPlugin) 
+ 
+ 
+> **感兴趣的同学可以看下 Gradle 源码**
  
 -  [groovy-android-gradle-plugin](https://github.com/groovy/groovy-android-gradle-plugin)
  
 -  [Gradle 源码](https://android.googlesource.com/platform/tools/base/+/gradle_3.1.2)
+
+
 
 
  
